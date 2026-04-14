@@ -1,0 +1,2 @@
+# dojo_whitebelt_moje_repo
+repozytorium szkoleniowe
